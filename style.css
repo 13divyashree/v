@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: black;
+}
+p{
+    color:black;
+}
+
+table.empty{
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 50px;
+    padding: 20px;
+    width: 500px;
+    border-color: chartreuse;
+    
+}
+
+
+
+   
